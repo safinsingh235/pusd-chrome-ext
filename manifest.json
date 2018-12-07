@@ -1,0 +1,11 @@
+{
+    "name": "PowayUSD Hub",
+    "version": "1.2",
+    "description": "A simple extension to allow students to access 'quick links' and get to their most-used websites. Designed by Safin Singh.",
+    "browser_action": 
+     {
+      "default_icon": "pusd.png",  
+      "default_popup": "popup.html"
+    },
+    "manifest_version": 2
+  }
